@@ -1,5 +1,5 @@
 # Gender classification using convolutional neural networks
-## Our final project in the Chalmer's course TMS016: Spatial statistics and image analysis
+### Our final project in the Chalmer's course TMS016: Spatial statistics and image analysis
 
 In this project, three different neural network architectures (MobileNet, Inception V3, and VGG16) have been trained to perform gender classification on facial images. All network architectures have been pretrained on the ImageNet database.
 
