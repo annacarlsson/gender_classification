@@ -11,6 +11,6 @@ The models were trained for 15 epochs with all layers but the top layers frozen,
 The best performing model on the UTKFace dataset was the VGG16 architecture based, which reached a test accuracy of 94.4 \%. The same model also performed best in terms of test accuracy on the Adience dataset, with a test accuracy of 94.9 \%. The networks which were first trained on UTKFace and then trained on Adience did not perform nearly as good as the best network which was directly trained on Adience. In this case, the VGG16 architecture reached a maximal test accuracy of 88.1 \%. This suggests that the extra training step did not contribute with any significant features which was useful for the networks for classification of the images in the Adience dataset.
 
 ## Contact
-Anton Andrée <ananton@student.chalmers.se>
-Anna Carlsson <annca@student.chalmers.se>
+Anton Andrée <ananton@student.chalmers.se>  
+Anna Carlsson <annca@student.chalmers.se>  
 Jan Liu <lijan@student.chalmers.se>
